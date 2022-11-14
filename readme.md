@@ -4,3 +4,11 @@
 flowchart LR
     Start --> Stop
 ```
+
+## Pizza
+
+```mermaid
+pie title A Slice of Pizza
+    "Remainder" : 100
+    "My Slice" : 20
+```
